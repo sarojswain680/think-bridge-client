@@ -1,0 +1,28 @@
+.blueColor{
+    color: 	#000000;
+}
+
+.alignCenter{
+    text-align: center;
+}
+
+.marginRight40{
+    margin-right: 40px;
+}
+
+.marginBottom40{
+    margin-bottom: 40px;
+}
+
+.button{
+        color: #fff !important;
+    background-color:	#90EE90 !important;
+    text-transform: unset !important;
+}
+
+.sub-text{
+      font-family: "Arial", Helvetica, sans-serif !important;
+    font-style: italic !important;
+    font-weight: 'bold' !important;
+    color: #079fff !important;
+}

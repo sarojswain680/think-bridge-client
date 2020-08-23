@@ -1,0 +1,2956 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/saroj/Documents/shop-bridge
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :public/index.html
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.css
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Store/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Store/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Types/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Types/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :src/Redux/Types/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Types/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Types/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Types/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Redux/Types/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Types/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Redux/Types/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Types/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Types/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Types/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :public/index.html
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :public/index.html
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.css
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.css
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.css
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git show --textconv :src/Component/CustomModules/header.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/header.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/ProductDetails.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/ProductDetails.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/header.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/header.js
+> git show --textconv :src/Component/CustomModules/layout.css
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.css
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git show --textconv :src/Component/CustomModules/ProductDetails.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/ProductDetails.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/common.css
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/common.css
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/ProductDetails.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/ProductDetails.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/CustomModules/ProductDetails.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/ProductDetails.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/CustomModules/ProductDetails.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/ProductDetails.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/CustomModules/ProductDetails.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/ProductDetails.js
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/productPage.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/productPage.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/ProductDetails.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/ProductDetails.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :src/Redux/Store/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Store/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Redux/Reducer/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/index.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :src/Component/Product/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/index.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package-lock.json
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :babel.config.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/babel.config.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git show --textconv :babel.config.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/babel.config.js
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git show --textconv :jest.config.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/jest.config.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :jest-preprocess.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/jest-preprocess.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :jest.config.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/jest.config.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git show --textconv :jest.config.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/jest.config.json
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package-lock.json
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/setupTests.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/setupTests.js
+> git cat-file -s 74b1a275a0ea7df518f17bcea5375abf003abe55
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :src/Component/CustomModules/Card.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/Card.js
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package-lock.json
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/App.test.js
+> git cat-file -s 4db7ebc25c2d066cd254805af5dda1ed1d2bc819
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__mocks__/fileMock.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__mocks__/fileMock.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git show --textconv :src/setupTests.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/setupTests.js
+> git cat-file -s 74b1a275a0ea7df518f17bcea5375abf003abe55
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package-lock.json
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :yarn.lock
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/yarn.lock
+> git cat-file -s 96b2a8be69d10a45d8e7640e74ab64cbf20eca4e
+> git show --textconv :babelrc
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/babelrc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :yarn.lock
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/yarn.lock
+> git cat-file -s 96b2a8be69d10a45d8e7640e74ab64cbf20eca4e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :babel.config.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/babel.config.js
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/package.json
+> git cat-file -s ed39d4ad649ca5c649bb491020375da8098f9a69
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :__tests__/header.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/header.test.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :__tests__/header.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/header.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/CustomModules/layout.css
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.css
+> git show --textconv :src/Component/CustomModules/layout.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/CustomModules/layout.js
+> git show --textconv :src/Component/NavBar/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/NavBar/index.js
+> git show --textconv :__tests__/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/ProductData.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/card.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/card.test.js
+> git show --textconv :__tests__/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/ProductData.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :__tests__/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/ProductData.js
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :__tests__/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/ProductData.js
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :src/Redux/Types/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Types/index.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/ProductData.js
+> git show --textconv :src/Constant/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/index.js
+> git show --textconv :__tests__/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/ProductData.js
+> git show --textconv :src/Constant/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/ProductData.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Constant/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/ProductData.js
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :src/Constant/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/ProductData.js
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :src/Redux/Action/index.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Action/index.js
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :__tests__/Product.reducer.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.reducer.test.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :__tests__/Product.reducer.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.reducer.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/Product.reducer.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.reducer.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/Product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.action.test.js
+> git show --textconv :__tests__/product.action.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/product.action.test.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/Product.reducer.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/Product.reducer.test.js
+> git show --textconv :__tests__/product.reducer.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/product.reducer.test.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :__tests__/product.reducer.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/product.reducer.test.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/setupTests.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/setupTests.js
+> git cat-file -s 74b1a275a0ea7df518f17bcea5375abf003abe55
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Constant/ProductData.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Constant/ProductData.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :src/Redux/Reducer/product.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Redux/Reducer/product.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/product.reducer.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/product.reducer.test.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Component/Product/addProduct.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/Component/Product/addProduct.js
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/setupTests.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/setupTests.js
+> git cat-file -s 74b1a275a0ea7df518f17bcea5375abf003abe55
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__tests__/createProduct.test.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/__tests__/createProduct.test.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/setupTests.js
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/setupTests.js
+> git cat-file -s 74b1a275a0ea7df518f17bcea5375abf003abe55
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/saroj/Documents/shop-bridge/src/setupTests.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/saroj/Documents/shop-bridge/src/setupTests.js
+> git cat-file -s 74b1a275a0ea7df518f17bcea5375abf003abe55
+> git show --textconv :src/setupTests.js
